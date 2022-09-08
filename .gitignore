@@ -1,0 +1,12 @@
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+.phpunit.result.cache
+.vscode
+composer.lock
+db
+notes.txt
+api-docs.json
+storage
